@@ -1,3 +1,9 @@
+body{
+    flex-wrap: wrap;
+}
+
+
+
 .nav1{
     display: flex;
     align-items: center;
@@ -85,6 +91,7 @@
     position: fixed;
     margin-top: 425px;
     margin-left: 83%;
+    flex-wrap: wrap;
 }
 
 .title{
